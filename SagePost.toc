@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: SagePost
+## Notes: Party/Raid composition and LFG post helper for Ascension.
+## Author: CodeSage
+## Version: 0.1.0
+## SavedVariables: SagePostDB
+
+Core.lua
+Definitions.lua
+UI.lua
